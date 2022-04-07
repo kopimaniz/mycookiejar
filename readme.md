@@ -1,3 +1,3 @@
 # mycookiejar
 
-save cookiejar as json file
+save cookie jar as json file
